@@ -1,0 +1,38 @@
+# Virtual environment
+myenv/
+venv/
+env/
+.venv/
+
+# API keys
+.env
+
+# Vector store (regenerate with ingest.py)
+vector_store/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Test output
+results*.csv

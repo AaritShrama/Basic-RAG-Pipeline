@@ -1,0 +1,22 @@
+# Document parsing
+pypdf
+
+# Embeddings
+sentence-transformers
+
+# Vector store
+faiss-cpu
+
+# LLM
+groq
+
+# Evaluation metrics
+rouge-score
+scikit-learn
+nltk
+
+# Utilities
+python-dotenv
+numpy
+pandas
+tqdm
